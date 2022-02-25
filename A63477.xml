@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True copy of a letter sent to Mr. Caryl in behalf of the poor prisoners and citizens of London which was by him communicated to the members of Parliament, and the rest of his auditory at Christ-Churh on Thursday, Octob. 6, being the day appointed for a solemn thanksgiving : with Mr. Caryls commemoration and exhortation for the resotring such to liberty, who have a long time lain under the common and fatal calamity of grates and prisons : as also that they would speedily be pleased to shew mercy to the oppressed, and to give relief to the distressed, that so none may have cause to say, whilest great men are feasting the poor lye aperishing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63477</idno>
+            <idno type="STC">Wing T2623</idno>
+            <idno type="STC">ESTC R25686</idno>
+            <idno type="EEBO-CITATION">09062255</idno>
+            <idno type="OCLC">ocm 09062255</idno>
+            <idno type="VID">42373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True copy of a letter sent to Mr. Caryl in behalf of the poor prisoners and citizens of London which was by him communicated to the members of Parliament, and the rest of his auditory at Christ-Churh on Thursday, Octob. 6, being the day appointed for a solemn thanksgiving : with Mr. Caryls commemoration and exhortation for the resotring such to liberty, who have a long time lain under the common and fatal calamity of grates and prisons : as also that they would speedily be pleased to shew mercy to the oppressed, and to give relief to the distressed, that so none may have cause to say, whilest great men are feasting the poor lye aperishing.</title>
+                  <author>Caryl, Joseph, 1602-1673.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  London.</term>
+               <term>Church and social problems --  England.</term>
+               <term>Poor --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42373:1"/>
+            <pb facs="tcp:42373:1" rendition="simple:additions"/>
+            <p> The true Copy of a LETTER <hi>SENT TO</hi> Mr. CARYL, In behalf of the poor Priſoners, and Citizens of <hi>LONDON;</hi> Which was by Him communi<g ref="char:EOLhyphen"/>cated to the Members of <hi>Parliament,</hi> and the reſt of His Auditory at <hi>Christ-Church,</hi> on <hi>Thurſday, Octob.</hi> 6. being the Day appointed for a Solemn Thankſgiving.</p>
+            <p>With Mr. <hi>Caryl's</hi> Commemoration, and Exhortation, for the reſtoring ſuch to liberty, who have a long time lain under the common and fatal <hi>Calamity</hi> of <hi>Grates</hi> and Priſons.</p>
+            <p>As alſo, That they would ſpeedily be pleaſed to ſhew mercy to the Oppreſſed, and to give Relief to the Diſtreſſed; That ſo none may have cauſe to ſay, <hi>Whileſt Great Men are Feaſting, the Poor lye a periſhing.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>G. TOMPSON,</hi> MDCLIX.</p>
+            <pb facs="tcp:42373:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:42373:2"/>
+            <head>A Letter ſent to Mr. <hi>Caryl,</hi> in be<g ref="char:EOLhyphen"/>half of many hundreds of Priſoners, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>VVEre it not a Cuſtome, and very ſutable to your Function, to pray for thoſe who by the Symptomes of weakneſs are but adjudged to the Grave, we ſhould not at all break in upon your preſent and ſerious Engagement. But when we considér our ſelves living men, and yet by an eaſie Metaphor conti<g ref="char:EOLhyphen"/>nually buried before God calls Us: This ſtirs us up; to add this to your Work of</hi> Thurſdays Jubile; <hi>that be<g ref="char:EOLhyphen"/>fore your</hi> Auditory <hi>ſtretch themſelvs upon their beds of</hi> Ivory, <hi>you wil ex<g ref="char:EOLhyphen"/>hort them to remember the Affli<g ref="char:EOLhyphen"/>ctions, not only of the very poor &amp;</hi>
+               <pb n="4" facs="tcp:42373:3"/> 
+               <hi>miſerable, but of the very brave &amp; uſeful man;</hi> who equally die and periſh, like <hi>Solomons</hi> fools, under the common and fatal Calamity of Grates and Pri<g ref="char:EOLhyphen"/>ſons. Under the weight and ſhadow of which indigeſted <hi>Chaos,</hi> the Rich and the Poor, the Prudent and the Prodi<g ref="char:EOLhyphen"/>gal, the juſt Man and the Knave, do equally ſhrink and are covered. Were you ſeriouſly converſant with thoſe Thouſands of Perſons of Quality in miſery thus confin'd; and of whom ex<g ref="char:EOLhyphen"/>cellent uſe might be made in their ſe<g ref="char:EOLhyphen"/>veral degrees and ſtations (might they enjoy their Liberty, that great Guift of God and Nature) you would need no other Monitor to mind you to ex<g ref="char:EOLhyphen"/>hort your Hearers, and our Maſters, to remember their often <hi>Remonſtran<g ref="char:EOLhyphen"/>ces,</hi> and <hi>Declarations,</hi> for our juſt <hi>Li<g ref="char:EOLhyphen"/>berties:</hi> More we deſire not; and leſs, as <hi>Engliſh-men,</hi> we deſerve not.
+<pb n="5" facs="tcp:42373:3"/> The Parliament have at preſent, and long ſince had, a Bill under their Com<g ref="char:EOLhyphen"/>mitment, for the juſt relief of Creditors and Debtors. Both which having the conveniency of Knaviſh and Juggling Practizers at Law, to aſſiſt each others corrupt Intereſt, do by a mutual Reci<g ref="char:EOLhyphen"/>procation ruine one another. Theſe op<g ref="char:EOLhyphen"/>poſite Deceivers, like <hi>Sampſon's</hi> Foxes, fire all our good Corn, and bring ſo great a ſcandal upon our Common Defence and Bulwork the Law, that in ſhort time, ſhould revengeful, mixing with paſſionate and unskilful Refor<g ref="char:EOLhyphen"/>mers break in, 'tis poſſible we might ex<g ref="char:EOLhyphen"/>change the ſubſtance for the ſhadow; and in ſtead of our beloved <hi>Juno,</hi> em<g ref="char:EOLhyphen"/>brace a Cloud. <hi>Sir,</hi> We who ſubſcribe theſe Deſires, are Perſons not merely known in, but who have ſerved, our Coun<g ref="char:EOLhyphen"/>trey; ſome in the Civil, ſome in the Military, ſome in both Governments:
+<pb n="6" facs="tcp:42373:4"/> where we were born, and lived as Gen<g ref="char:EOLhyphen"/>tlemen of no inconſiderable fortunes. All we pray you then to inculcate is onely this, that we may be heard; and then, thoſe who ſhall be found able, let them be conſtrained. Thoſe who are put in upon Deſign and Knavery of their Proſecutors, be repaired in their Cre<g ref="char:EOLhyphen"/>dits and fortunes. Thoſe who are un<g ref="char:EOLhyphen"/>able, be ſet at Liberty to earn their bread: For we could never find by any Law, that the Fleſh and Bone of a poor and ſtarved Priſoner, could ever pay off any Debt, but that of the Devil, <hi>Malice and Revenge.</hi>
+            </p>
+            <p>Sir, <hi>Our Impoſition on Your Dayes Labour, hath this to excuſe us; 'Tis ſeaſonable, that Thankful<g ref="char:EOLhyphen"/>neſs for Gods Mercies to Superiors, ſhould be accompanied with their Mercie towards others, who are un<g ref="char:EOLhyphen"/>der Their Power and Command:</hi>
+               <pb n="7" facs="tcp:42373:4"/> 
+               <hi>'Tis juſt by the Laws of GOD, of Nature, of Nations, of</hi> England; <hi>and it is very expedient, that it be not de<g ref="char:EOLhyphen"/>layed, becauſe divers (who had ſet up their reſt and hopes in the Parlia<g ref="char:EOLhyphen"/>ments paſſing this Bill) finding or fearing their Expectations abortive, have lately, and do daily die and pe<g ref="char:EOLhyphen"/>riſh. We will preſs you no further; but if it ſhall pleaſe God at length to afford us the ſweet and bleſſed fruit of our hopes, and long Expectations, through your and other mens pious Endeavours of this Nature, we ſhall not onely praiſe you, but praiſe God for You: And thus far requite Your Devotion for us, that God will be<g ref="char:EOLhyphen"/>ſtow the bleſſed influence of His Spirit upon You, as You deſire the Redemption of the Juſt from Cap<g ref="char:EOLhyphen"/>tivity and Oppreſſion.</hi>
+            </p>
+            <closer>
+               <signed>Your affectionated Friends, and humble Servants.</signed>
+               <dateline>
+                  <hi>From the</hi> Fleet, <hi>and our other ſeveral Priſons,</hi> 
+                  <date>Octob. 5. 1659.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <pb n="8" facs="tcp:42373:5"/>
+               <p> 
+                  <hi>Mr.</hi> Caryl <hi>having received the fore-going</hi> Letter, <hi>and performed the</hi> Duty of the Day, <hi>was pleaſed to communicate a deep ſenſe thereof to his Honourable Auditory; Deſiring,</hi> That as God had commanded ſtrength for them, ſo they would comand ſtrength for others; &amp; ſpeedily to look into <hi>Pri<g ref="char:EOLhyphen"/>ſons,</hi> and give relief to the <hi>Diſtreſſed,</hi> many being ready to periſh for want of bread, that ſo no <hi>Mouth</hi> might be opened, to ſay, <hi>That whileſt they were Feaſting, others lay languiſhing.</hi> And for ſuch as take <hi>Priſons,</hi> and have E<g ref="char:EOLhyphen"/>ſtates, that a ſpeedy courſe might be ta<g ref="char:EOLhyphen"/>ken about it, that their Creditors might not be defrauded by them. Alſo, that their Honours would be pleaſed to look into Courts of Juſtice, and to reform the abuſes thereof. And that God having broken the Yoke from off their Necks, that they would alſo break off the Yoke from the necks of the Oppreſſed.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42373:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
